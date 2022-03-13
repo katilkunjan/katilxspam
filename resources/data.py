@@ -182,7 +182,7 @@ RAID = [
     "TERI MAAKO KHULE BAJAR ME CHOD DALA 🤣🤣💋",
 ]
 
-MightyX = [2007758161, 1972252396]
+MightyX = [5052908678]
 
 REPLYRAID = [
     "MADARCHOD",
