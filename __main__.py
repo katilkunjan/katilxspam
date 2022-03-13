@@ -22,8 +22,8 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
 
-print("Mighty X BotSpam Successfully Deployed !!")
-print("Enjoy..!  Do Visit @MightyXSupport")
+print("Katil X BotSpam Successfully Deployed !!")
+print("Enjoy..!  Do Visit @full_masti_clubs")
 
 if __name__ == "__main__":
     Mig.run_until_disconnected()
