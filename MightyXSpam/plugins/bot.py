@@ -12,10 +12,10 @@ from telethon.tl.custom import button
 from time import time
 from datetime import datetime
 
-MIG_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/2ead82e77994638db6e39.jpg"
+MIG_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/06f28e4288070eb5f26a8.jpg"
   
 
-mighty = "╚»★ 𝗠𝗶𝗴𝗵𝘁𝘆𝗫𝗦𝗽𝗮𝗺 𝗶𝘀 𝗛𝗲𝗿𝗲 ★«╝\n\n"
+mighty = "╚»★𝐊𝐚𝐭𝐢𝐥𝗫𝗦𝗽𝗮𝗺 𝗶𝘀 𝗛𝗲𝗿𝗲 ★«╝\n\n"
 mighty += f"═══════════════════\n"
 mighty += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.9.6`\n"
 mighty += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
