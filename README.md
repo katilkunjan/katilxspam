@@ -18,7 +18,7 @@
 
 # Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/katilkunjan/katilBotSpam-deploy-)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/katilkunjan/katilxspam-deploy-)
 
 
 # Support & Updates
