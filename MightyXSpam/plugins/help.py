@@ -5,9 +5,9 @@ from time import time
 from datetime import datetime
 from MightyXSpam import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/f6ea9ab7683ec1d5f8f57.jpg"
+HELP_PIC = "https://telegra.ph/file/06f28e4288070eb5f26a8.jpg"
 
-Mig_Help = "★ 𝙈𝙞𝙜𝙝𝙩𝙮𝙓𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩"
+Mig_Help = "★𝐊𝐚𝐭𝐢𝐥𝙓𝙎𝙥𝙖𝙢 𝙃𝙚𝙡𝙥 𝙈𝙚𝙣𝙪 ★\n𝐂𝐥𝐢𝐜𝐤 𝐎𝐧 𝐁𝐞𝐥𝐨𝐰 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐅𝐨𝐫 𝐇𝐞𝐥𝐩"
 
 
 @Mig.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -34,10 +34,10 @@ async def help(event):
             Button.inline("⚡ Extra ⚡", data="extra"),
            ],
            [    
-            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/MightyXUpdates")
+            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/heartbrokenperson1")
            ],
            [
-           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/MightyXSupport")
+           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/full_masti_clubs")
            ],
            ],
            )              
@@ -67,7 +67,7 @@ Command :
 **PackSpam :** Sticker Pack Spam
 1) {hl}packspam (replying to any sticker)
 
-**© @MightyXSpam**
+**© @tera_baap_katil**
 """
 
                  
@@ -96,7 +96,7 @@ Command :
 2) {hl}dreplyraid <username>
 
 
-**© @MightyXSpam**
+**© @tera_baap_katil**
 """
 
 spam_msg = f"""
@@ -125,7 +125,7 @@ Command :
 Command :
 1) {hl}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-** © @MightyXSpam**
+** © @tera_baap_katil**
 """                     
            
            
@@ -152,16 +152,16 @@ async def helpback(event):
             Button.inline("⚡ Extra ⚡", data="extra"),
            ],
            [    
-            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/MightyXUpdates")
+            Button.url("✨ ᴄʜᴀɴɴᴇʟ ✨", "https://t.me/heartbrokenperson1")
            ],
            [
-           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/MightyXSupport")
+           Button.url("✨ sᴜᴘᴘᴏʀᴛ ✨", "https://t.me/full_masti_clubs")
            ],
            ],
         )           
    else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSpam"
+                "Noob !! Make Your Own Katil X Spam Bots !! @full_masti_clubs"
             )
         await event.answer(Alert, cache_time=0, alert=True)
       
@@ -189,7 +189,7 @@ async def help_spam(event):
             ) 
    else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSpam"
+                "Noob !! Make Your Own Katil X Spam Bots !! @full_masti_clubs"
             )
         await event.answer(Alert, cache_time=0, alert=True)
                  
@@ -216,7 +216,7 @@ async def help_raid(event):
             )  
      else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSpam"
+                "Noob !! Make Your Own Katil X Spam Bots !! @full_masti_clubs"
             )
         await event.answer(Alert, cache_time=0, alert=True)
        
@@ -244,7 +244,7 @@ async def help_extra(event):
             )
    else:
         Alert = (
-                "Noob !! Make Your Own Mighty X Spam Bots !! @MightyXSpam"
+                "Noob !! Make Your Own 𝚔𝙰𝚃𝙸𝙻 X Spam Bots !! @FULL_MASTI_CLUBS"
             )
         await event.answer(Alert, cache_time=0, alert=True)
 
